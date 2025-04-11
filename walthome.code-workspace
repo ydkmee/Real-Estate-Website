@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../walthome"
+		},
+		{
+			"path": "../Glassmorphism Form"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../Applications/XAMPP/xamppfiles/htdocs"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Wealthome Real Estate Project",
+		"liveServer.settings.port": 5501
+	}
+}
